@@ -1,0 +1,6 @@
+{
+  "name": "Molecular Data Vault - Functional Simulated Molecular Storage",
+  "description": "Functional software-based simulated molecular data storage and retrieval system with UTF-8 binary conversion, 4-state reversible molecular mapping, real-time 3D protein storage chamber visualization, and cryptographic/bit-exact verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
